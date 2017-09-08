@@ -1,0 +1,25 @@
+
+#centerform
+{
+	text-align: center;
+	margin:  auto;
+}
+.textbox
+{
+	height: 32px;
+	width: 200px;
+}
+.button
+{
+	height: 32px;
+	width: 100px;
+	background: darkgrey;
+	border-radius: 15px;
+	
+}
+.box{
+	height: 30px;
+	width: 100%;
+	border: solid grey;
+	background: grey ;
+}
